@@ -66,7 +66,13 @@ Un remoto conecta el repositorio local con otro en la nube; origin corresponde a
 
 El historial de commits se inspecciona con git log para listar la cronología de cambios, git show para examinar el detalle exacto de un commit específico y git diff para comparar las diferencias entre distintas versiones o archivos antes de guardar.
 
-Programación: 
+
+
+
+Programación:
+
+
+
 15. ¿Cuáles son los tipos de datos primitivos en Java?
 
 Son ocho: byte, short, int, long, float, double, char y boolean.
